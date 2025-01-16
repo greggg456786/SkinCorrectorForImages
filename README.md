@@ -31,7 +31,7 @@ Installation
 To get started with this project, you need to clone the repository and install the necessary dependencies.
 1. Clone the repository:
 
-git clone https://github.com/greggg456786/SkinCorrectorForImages
+git clone https://github.com/mivibzzz/SkinCorrectorForImages
 cd skin-tone-adjuster
 
 2. Install dependencies:
