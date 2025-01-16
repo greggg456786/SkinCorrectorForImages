@@ -1,4 +1,4 @@
-Enhance Skin Tone and Color Contrast Adjuster
+**Enhance Skin Tone and Color Contrast Adjuster**
 Overview
 
 This project was originally created to boost the color contrast in images generated using AI, especially focusing on enhancing skin tones in portraits or similar images. AI-generated images can sometimes have unnatural skin colors or poor contrast, and this tool is designed to address that issue. By detecting and adjusting the skin regions in images, it helps make AI-generated visuals look more vibrant, realistic, and visually appealing.
